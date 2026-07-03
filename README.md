@@ -1,5 +1,4 @@
-# nl
-NL survival guide
+# NL survival guide
 
 ## Checklist
 
