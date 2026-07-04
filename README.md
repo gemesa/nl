@@ -23,6 +23,7 @@
   - [bunq](https://www.bunq.com/)
     - [Free plan available](https://www.bunq.com/documents/pricing-sheet)
     - **Online** registration
+    - After verification, switch to plan `bunq Free`
   - [ABN AMRO](https://www.abnamro.nl/en/personal/index.html)
     - Provide your proof of residence **within 120 days** of becoming a client
     - [Min. 4.30EUR/month](https://www.abnamro.nl/en/personal/payments/fees/new-fees-and-terms-2026.html)
