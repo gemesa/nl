@@ -15,10 +15,12 @@
   - Compare insurances at [independer.nl](https://www.independer.nl/) or [zorgwijzer.nl](https://www.zorgwijzer.nl/zorgvergelijker/english#/search)
 - GP registration
 - [TB deregistration](https://www.neak.gov.hu/felso_menu/lakossagnak/ellatas_magyarorszagon/jogosultsag_az_ellatasra/kulfoldon_munkat_vallalok_bejelentese) (**within 15 days**)
+  - If NAV bills you for the health service contribution, use form T1011U to get it cancelled retroactively
 
 ### Optional
 
 - Dutch bank account (Wise/Revolut is often fine)
+  - After moving to NL, changing the country of residence in Revolut (and getting a Dutch IBAN) is not possible. The old account needs to be closed and a new one needs to be created.
 - International credential evaluation (diploma recognition)
 - Dutch SIM card
 - Install [9292](https://play.google.com/store/apps/details?id=nl.negentwee&hl=en) app
