@@ -5,7 +5,7 @@
 ### Mandatory
 
 - Secure work contract
-- Arrange housing
+- Arrange housing. Temporarily using the company HQ as address.
 - BSN registration at [The Hague International Centre](https://www.thehagueinternationalcentre.nl/) **in person** (**within 5 days**)
   - EU ID or passport
   - Proof of occupancy (provided by the employer)
