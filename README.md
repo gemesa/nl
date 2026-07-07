@@ -15,10 +15,10 @@
     - [Extract from the Personal Records Database (BRP)](https://www.denhaag.nl/en/certificates-and-official-documents/apply-for-extract-from-the-personal-records-database-brp/) (provided by the The Hague municipality, can be requested **online with DigiD**).
 - BSN registration at [The Hague International Centre](https://www.thehagueinternationalcentre.nl/) **in person** (**within 5 days**).
   - Docs:
-    - EU ID or passport
-    - Proof of occupancy (provided by the employer)
-- [DigiD application **online**](https://digid.nl/en/aanvragen)
-- Health insurance coverage (**within 4 months**)
+    - EU ID or passport.
+    - Proof of occupancy (provided by the employer).
+- [DigiD application **online**](https://digid.nl/en/aanvragen).
+- Health insurance coverage (**within 4 months**):
   - [System explanation](https://www.reddit.com/r/Netherlands/comments/1dyxztd/can_you_please_explain_the_healthcare_in_the/).
   - Compare insurances at [independer.nl](https://www.independer.nl/) or [zorgwijzer.nl](https://www.zorgwijzer.nl/zorgvergelijker/english#/search).
   - [Zilveren Kruis](https://www.zilverenkruis.nl/consumenten):
@@ -28,13 +28,13 @@
     - After registration, **DigiD is necessary for login**.
 - [TB deregistration **online**](https://www.neak.gov.hu/felso_menu/lakossagnak/ellatas_magyarorszagon/jogosultsag_az_ellatasra/kulfoldon_munkat_vallalok_bejelentese) (**within 15 days**).
   - If NAV bills you for the health service contribution, use form T1011U to get it cancelled retroactively **online**.
-- [Send the EU health card back](https://www.neak.gov.hu/felso_menu/lakossagnak/ellatas_magyarorszagon/jogosultsag_az_ellatasra/kulfoldon_munkat_vallalok_bejelentese).
+- [Send the European Health Insurance Card (EHIC) back](https://www.neak.gov.hu/felso_menu/lakossagnak/ellatas_magyarorszagon/jogosultsag_az_ellatasra/kulfoldon_munkat_vallalok_bejelentese).
 - Dutch bank account (Wise/Revolut is often fine).
   - Wise: Belgian IBAN.
   - Revolut: Hungarian IBAN. After moving to NL, changing the country of residence (and getting a Dutch IBAN) is not possible. The old account needs to be closed and a new one needs to be created.
   - [bunq](https://www.bunq.com/):
     - **Online** registration.
-    - [Free plan available](https://www.bunq.com/documents/pricing-sheet)
+    - [Free plan available](https://www.bunq.com/documents/pricing-sheet).
     - After verification, switch to plan `bunq Free`.
   - [ABN AMRO](https://www.abnamro.nl/en/personal/index.html):
     - **Online** registration.
@@ -50,5 +50,5 @@
 
 ### Optional
 
-- International credential evaluation (diploma recognition)
-- Dutch SIM card
+- International credential evaluation (diploma recognition).
+- Dutch SIM card.
