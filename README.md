@@ -9,6 +9,10 @@
   - Platforms:
     - https://www.pararius.com/english
     - https://www.funda.nl/en/
+  - Docs:
+    - Work contract (provided by the employer).
+    - Employer's statement (provided by the employer).
+    - [Extract from the Personal Records Database (BRP)](https://www.denhaag.nl/en/certificates-and-official-documents/apply-for-extract-from-the-personal-records-database-brp/) (provided by the The Hague municipality, can be requested **online with DigiD**).
 - BSN registration at [The Hague International Centre](https://www.thehagueinternationalcentre.nl/) **in person** (**within 5 days**).
   - Docs:
     - EU ID or passport
@@ -36,10 +40,15 @@
     - **Online** registration.
     - Provide your proof of residence **within 120 days** of becoming a client.
     - [Min. 4.30EUR/month](https://www.abnamro.nl/en/personal/payments/fees/new-fees-and-terms-2026.html).
-- GP registration.
 - Install the [9292](https://play.google.com/store/apps/details?id=nl.negentwee&hl=en) navigation app.
-- Apply for [OV-pas](https://www.ns.nl/en/travel/check-in-check-out/ov-pas) (succesor of [OV chip card](https://www.ov-chipkaart.nl/en/personal-ov-chipkaart)).
+- Install the [NS](https://play.google.com/store/apps/details?id=nl.ns.android.activity&hl=en) public transport app.
+- Install the [OVpay](https://play.google.com/store/apps/details?id=nl.tls.ovpay&hl=en) public transport app.
+- Apply for [OV-pas](https://www.ns.nl/en/travel/check-in-check-out/ov-pas) (successor of [OV chip card](https://www.ov-chipkaart.nl/en/personal-ov-chipkaart)).
+- [HTM](https://www.htm.nl/en/webshop/regio-vrij/#/) monthly subscription (unlimited travel on trams, buses and metros in the The Hague-Rotterdam region).
+- [NS](https://www.ns.nl/en/season-tickets/) monthly subscription: `NS Flex Dal Voordeel` or `NS Flex Weekend Vrij`.
+- GP registration.
 
 ### Optional
+
 - International credential evaluation (diploma recognition)
 - Dutch SIM card
