@@ -5,6 +5,7 @@
 ### Mandatory
 
 - Secure work contract.
+  - Apply for [30% ruling](https://www.belastingdienst.nl/wps/wcm/connect/en/individuals/content/coming-to-work-in-the-netherlands-30-percent-facility).
 - Arrange housing. After arrival, just use the company HQ as address temporarily.
   - Platforms:
     - https://www.pararius.com/english
@@ -34,6 +35,7 @@
   - If NAV bills you for the health service contribution, use form T1011U to get it cancelled retroactively **online**.
 - [Send the European Health Insurance Card (EHIC) back](https://www.neak.gov.hu/felso_menu/lakossagnak/ellatas_magyarorszagon/jogosultsag_az_ellatasra/kulfoldon_munkat_vallalok_bejelentese).
 - Dutch bank account.
+  - After setting up an account, change the preferred name so it displays the full name. Many document requests require it.
   - [bunq](https://www.bunq.com/):
     - **Online** registration.
     - [Free plan available](https://www.bunq.com/documents/pricing-sheet).
