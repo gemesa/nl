@@ -5,7 +5,7 @@
 ### Mandatory
 
 - Secure work contract.
-  - Apply for [30% ruling](https://www.belastingdienst.nl/wps/wcm/connect/en/individuals/content/coming-to-work-in-the-netherlands-30-percent-facility).
+  - Apply for [30% ruling](https://www.belastingdienst.nl/wps/wcm/connect/en/individuals/content/coming-to-work-in-the-netherlands-30-percent-facility) **within 4 months**.
 - Arrange housing. After arrival, just use the company HQ as address temporarily.
   - Platforms:
     - https://www.pararius.com/english
