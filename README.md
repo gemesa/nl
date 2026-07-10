@@ -10,6 +10,7 @@
   - Platforms:
     - https://www.pararius.com/english
     - https://www.funda.nl/en/
+    - https://www.bjornd.nl/en/home
     - https://ikwilhuren.nu/
     - https://livresidential.nl/
     - https://calculator.rentbuster.nl/ (for verifying WWS points)
