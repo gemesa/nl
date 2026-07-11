@@ -58,7 +58,7 @@
 - Install the [NS](https://play.google.com/store/apps/details?id=nl.ns.android.activity&hl=en) public transport app.
 - Install the [OVpay](https://play.google.com/store/apps/details?id=nl.tls.ovpay&hl=en) public transport app.
 - Apply for [OV-chipkaart](https://www.ov-chipkaart.nl/en/apply-for-personal-ov-chipcard).
-- Apply for [OV-pas](https://www.ns.nl/en/travel/check-in-check-out/ov-pas) (successor of [OV-chipkaart](https://www.ov-chipkaart.nl/en/personal-ov-chipkaart)).
+- Apply for [OV-pas](https://www.ns.nl/en/travel/check-in-check-out/ov-pas) (successor of [OV-chipkaart](https://www.ov-chipkaart.nl/en/personal-ov-chipkaart) but does not support some discounts yet).
 - [HTM](https://www.htm.nl/en/webshop/regio-vrij/#/) monthly subscription (unlimited travel on trams, buses and metros in the The Hague-Rotterdam region).
 - [NS](https://www.ns.nl/en/season-tickets/) monthly subscription: `NS Flex Dal Voordeel` or `NS Flex Weekend Vrij`.
 - GP registration.
