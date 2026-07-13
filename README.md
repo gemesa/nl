@@ -57,9 +57,14 @@
   - Revolut:
     - Hungarian IBAN (if you registered in Hungary).
     - Changing the country of residence (and getting a Dutch IBAN) is not possible. The old account needs to be closed and a new one needs to be created.
-- Install the [9292](https://play.google.com/store/apps/details?id=nl.negentwee&hl=en) navigation app.
-- Install the [NS](https://play.google.com/store/apps/details?id=nl.ns.android.activity&hl=en) public transport app.
-- Install the [OVpay](https://play.google.com/store/apps/details?id=nl.tls.ovpay&hl=en) public transport app.
+- Install the following apps:
+  - [9292](https://play.google.com/store/apps/details?id=nl.negentwee&hl=en) (navigation - NL)
+  - [NS](https://play.google.com/store/apps/details?id=nl.ns.android.activity&hl=en) (public transport - NL)
+  - [NS International](https://play.google.com/store/apps/details?id=nl.nshispeed&hl=en) (public transport - NL)
+  - [OVpay](https://play.google.com/store/apps/details?id=nl.tls.ovpay&hl=en) (public transport - NL)
+  - [SNCB/NMBS](https://play.google.com/store/apps/details?id=be.sncbnmbs.b2cmobapp&hl=en) (public transport - BE)
+    - Check out the `Train+` subscription.
+  - [SNCB International](https://play.google.com/store/apps/details?id=com.nmbs&hl=en) (public transport - BE)
 - Apply for [OV-chipkaart](https://www.ov-chipkaart.nl/en/apply-for-personal-ov-chipcard).
 - Apply for [OV-pas](https://www.ns.nl/en/travel/check-in-check-out/ov-pas) (successor of [OV-chipkaart](https://www.ov-chipkaart.nl/en/personal-ov-chipkaart) but does not support some discounts yet).
 - [HTM](https://www.htm.nl/en/webshop/regio-vrij/#/) monthly subscription (unlimited travel on trams, buses and metros in the The Hague-Rotterdam region).
