@@ -53,7 +53,7 @@
     - [Min. 4.30EUR/month](https://www.abnamro.nl/en/personal/payments/fees/new-fees-and-terms-2026.html).
   - Wise:
     - Belgian IBAN (if you registered in Hungary).
-    - [Changing the country of residence](https://wise.com/help/articles/3umiLdiQoFLxh0xP36MEIO/how-do-i-update-my-country-of-residence) can be done by contacting the support and providing proof of residence documents.
+    - [Changing the country of residence](https://wise.com/help/articles/3umiLdiQoFLxh0xP36MEIO/how-do-i-update-my-country-of-residence) can be done by contacting the support and providing proof of residence documents. The review takes 1 day.
   - Revolut:
     - Hungarian IBAN (if you registered in Hungary).
     - [Changing the country of residence](https://help.revolut.com/en-NL/help/profile-and-plan/profile-plan/profile-settings/how-do-i-change-my-country-of-residence/) (and getting a Dutch IBAN) is not possible. The old account needs to be closed and a new one needs to be created.
