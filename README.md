@@ -67,7 +67,7 @@
       - [Buienradar](https://play.google.com/store/apps/details?id=com.supportware.Buienradar&hl=en) (weather)
       - [Marktplaats](https://play.google.com/store/apps/details?id=nl.marktplaats.android&hl=en) (marketplace)
       - [Swapfiets](https://play.google.com/store/apps/details?id=com.swapfiets&hl=en) (bicycle renting)
-    - Region locked (Note: create a 2. Google account with country of residence set to NL. The country of the main Google account can only be [changed](https://support.google.com/googleplay/answer/7431675) if it is not part of a family group.):
+    - Region locked (Note: create a 2. Google account with country of residence set to NL. The country of the main Google account can only be [changed](https://support.google.com/googleplay/answer/7431675) if it is not part of a family group. Alternatively, use the websites if available.):
       - [Tikkie](https://play.google.com/store/apps/details?id=com.abnamro.nl.tikkie&hl=en) (money-request app)
       - [My DHL](https://play.google.com/store/apps/details?id=com.dhlparcel.nl&hl=en) (package tracking)
   - BE:
